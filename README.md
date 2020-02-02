@@ -9,4 +9,6 @@ Sorts bunyan formatted logs according to their `time` field. This way you can ea
 
 ## Usage
 
+option `-r` reverses order (Newest last).
+
 `$ cat your.log | bunyan-sort [-r] | bunyan`
