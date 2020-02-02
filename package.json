@@ -1,0 +1,17 @@
+{
+  "name": "bunyan-log-sort",
+  "license": "MIT",
+  "readme": "",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Peekayy/bunyan-log-sort.git"
+  },
+  "author": {
+    "email": "peekayy.dev@gmail.com",
+    "name": "Peekayy"
+  },
+  "bin": {
+    "bunyan-sort": "./bunyan-sort.js"
+  }
+}
