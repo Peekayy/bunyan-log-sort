@@ -7,6 +7,6 @@ Sorts bunyan formatted logs according to their `time` field. This way you can ea
 ### Using yarn
 `yarn global add bunyan-log-sort`
 
-##Usage
+## Usage
 
 `$ cat your.log | bunyan-sort [-r] | bunyan`
