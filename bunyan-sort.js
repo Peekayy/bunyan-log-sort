@@ -4,7 +4,6 @@ const stdin = process.stdin,
     stdout = process.stdout,
     inputChunks = [];
 
-console.log(process.argv);
 const reverse = !!process.argv.find(e => e === '-r');
 
 stdin.resume();
